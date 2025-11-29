@@ -18,12 +18,12 @@
 
 ### 博客随笔
 
-- [猫猫博客](https://catcat.blog/) - 致力于为动画爱好者提供高质量的BDRIP和Blu-ray Remux资源
+- [猫猫博客](https://catcat.blog/) - 致力于为动画爱好者提供高质量的 BDRIP 和 Blu-ray Remux 资源
 - [XINGJI](https://vue.xingji.fun/) - 爱幻想的幻想家，更是一名实干家
 - [重构人生](https://ykshang.github.io/MyBlog/) - 一名程序员的技术探索与生活记录
 - [泠·鸢](https://xn--866a.com/)
 - [茂茂物语](https://notes.fe-mm.com/) - 知识是进步的阶梯，争取每天都有知识点更新
-- [纸鹿摸鱼处](https://blog.zhilu.site/) - 分享技术与生活；折腾不止，摸鱼生活——摸门🙏🏻
+- [纸鹿摸鱼处](https://blog.zhilu.site/) - 分享技术与生活；折腾不止，摸鱼生活——摸门 🙏🏻
 - [THW's Blog](https://tianhw.top/) - 前途似海，来日方长
 
 ### 其它
@@ -40,6 +40,5 @@
 - [后盾人](https://www.houdunren.com/) - 每一个课程都精心录制，高质量课程提升你的编程能力
 - [柏码](https://www.itbaima.cn/zh-CN) - 让每一行代码都闪耀智慧的光芒
 - [编程导航](https://www.codefather.cn/) - 程序员一站式编程学习交流社区，做您编程学习路上的导航员
-- [chat4j](https://chat4j.com/) - 从零构建WebChat分布式微服务项目, java编程学习一站式平台
+- [chat4j](https://chat4j.com/) - 从零构建 WebChat 分布式微服务项目, java 编程学习一站式平台
 - [爱知趣](https://www.92zhiqu.com/) - 一家专注互联教育的公司，专注在线职业教学
-- 
