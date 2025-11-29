@@ -32,3 +32,7 @@
 - [Vercel:](https://vercel.com/) - 使用 AI 云构建和部署最佳网络体验
 - [Cloudflare](https://cloudflare.com/) - 全球分布式网络、安全防护及开发工具服务
 - [CNB](https://cnb.cool/) - 基于 Docker 生态，云原生构建
+
+## 站点分析
+
+- [Umami](https://umami.is/) - 使收集、分析和理解您的网站数据变得容易

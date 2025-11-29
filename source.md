@@ -114,8 +114,14 @@
 - [图拉丁吧工具箱](https://www.tbtool.cn/) - DIY爱好者的必备工具合集
 - [联想知识库](https://iknowledge.lenovo.com.cn/) - 分享知识、互动交流的平台
 - [GRUB Themes](https://www.gnome-look.org/browse?cat=109&ord=latest) - Ventoy主题
+- [Ventoy界面自定义](https://ventoy.wumiaotech.dpdns.org/) - Ventoy也能豪堪？教你自定义Ventoy主题！
 
+## 授权激活
 
+### JetBrains
+
+- [jetbra.in](https://3.jetbra.in/) - 按照 readme 中的说明进行配置
+- [JetBrains 许可证生成器](https://jetbrains.ankio.net/license) - 免费的 JetBrains IDE许可证生成器
 
 [Official Icon]: ./icon/official-icon.svg "官网"
 [Chinese Icon]: ./icon/chinese-icon.svg "中文网"
