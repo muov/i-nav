@@ -1,5 +1,7 @@
 # ⚙️ DevOps 运维
 
+[![Source 资源](https://img.shields.io/badge/Source%20资源-📚-violet?style=for-the-badge)](source.md) [![WEB 前端领域](https://img.shields.io/badge/WEB%20前端-🌐-blue?style=for-the-badge)](web.md) [![OPS 运维](https://img.shields.io/badge/OPS%20运维-⭐-green?style=for-the-badge)](#) [![AIGC 大数据](https://img.shields.io/badge/AIGC%20大数据-🤖-orange?style=for-the-badge)](aigc.md) [![COMM 社区](https://img.shields.io/badge/COMM%20社区-💬-cyan?style=for-the-badge)](community.md)
+
 ## 服务面板
 
 - [小皮面板](https://www.xp.cn/) - 好用安全稳定的服务器面板
