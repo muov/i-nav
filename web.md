@@ -11,7 +11,7 @@
 ## CSS 相关
 
 **原子化**
-- [tailwindcss](https://tailwindcss.com/) - 只需 HTML 即可快速构建现代网站 [![Chinese][Chinese Icon]](https://tailwind.nodejs.cn/)
+- [Tailwind CSS](https://tailwindcss.com/) - 只需 HTML 即可快速构建现代网站 [![Chinese][Chinese Icon]](https://tailwind.nodejs.cn/)
 - [UnoCSS](https://unocss.dev/) - 即时按需原子化 CSS 引擎 [![Chinese][Chinese Icon]](https://www.unocss.cn/)
 - [weapp-tailwindcss](https://tw.icebreaker.top/) - 小程序 使用 tailwindcss 一站式解决方案
 
