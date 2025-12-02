@@ -76,6 +76,7 @@
 - [NumberFlow](https://number-flow.barvian.me/) - 一个动画数字组件
 - [Magic UI](https://magicui.design) - 开源动画组件和效果
 - [React Bits](https://www.reactbits.dev/) - React 的动画 UI 组件
+- [AIChatInput](https://github.com/sunnyboy-lx/doubao-template-input) - Vue3 豆包智能模版输入框
 
 ## UI 组件库
 
@@ -91,6 +92,8 @@
 - [Ant DesIgn X](https://ant-design-x.antgroup.com/index-cn) - RICH 设计范式，打造卓越 AI 界面解决方案，引领智能新体验
 - [Ant Design](https://ant.design/index-cn) - 企业级界面设计语言和 React 用户界面库
 - [shadcn/ui](https://ui.shadcn.com/) - 一套设计精美的组件，你可以对其进行自定义、扩展和构建
+- [Semi Design](https://semi.design/zh-CN/) - 抖音团队维护，易于定制的现代化设计系统
+- [Semi AI](https://semi.design/zh-CN/ai/aiComponent) - 专为 AI 应用场景设计的创新组件
 
 ## Vue 生态
 
