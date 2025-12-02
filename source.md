@@ -24,6 +24,7 @@
 
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 RN 开发的音乐软件 ![Android][Android Icon]
+- [Any Listen](https://github.com/any-listen) - 一个跨平台的私人音乐播放服务
 - [动漫共和国](https://www.oneghg.com/) - 一款专为二次元爱好者打造的追番神器 ![Android][Android Icon] ![Windows][Windows Icon]
 - [omofun](https://www.omoo.app/) - 看漫如此简单(￣﹃￣)~omO ![Android][Android Icon] ![Windows][Windows Icon]
 - [legado](https://github.com/gedoor/legado) - 阅读是一款可以自定义来源阅读网络内容的工具 ![Android][Android Icon]
