@@ -32,6 +32,7 @@
 
 - [React](https://zh-hans.react.dev/) - 用于构建 Web 和原生交互界面的库
 - [React Route](https://reactrouter.com.cn/) - 适用于 React 的多策略路由器
+- [UmiJS](https://umijs.org) - Umi 可扩展的企业级前端应用框架
 - [Tanstack](https://tanstack.com) - 适用于数据管理、数据可视化、图表、表格和用户界面组件等
 - [ahooks](https://ahooks.js.org/zh-CN) - 一套高质量可靠的 React Hooks 库
 
@@ -39,7 +40,6 @@
 
 - [Nuxt](https://nuxt.com) - 使用 Nuxt 这一开源框架，打造高品质的 Web 应用，它让 Vue.js 的全栈开发变得直观易行
 - [Next.js](https://nextjs.org/) - 用于 Web 的全栈 React 框架
-- [UmiJS](https://umijs.org) - Umi 可扩展的企业级前端应用框架
 - [uni-app](https://uniapp.dcloud.net.cn/) - 使用 Vue.js 开发所有前端应用的框架，一套代码，运行到多个平台
 - [Node.js](https://nodejs.org/zh-cn) - 一个免费、开源、跨平台的 JavaScript 运行时环境
 - [Electron](https://www.electronjs.org/zh/) - 使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用程序
