@@ -6,8 +6,9 @@
 
 ### 娱乐社区
 
-- [LINUX DO ](https://linux.do/) - 新的理想型社区
+- [LINUX DO](https://linux.do/) - 新的理想型社区
 - [NodeLoc](https://www.nodeloc.com/) - 自由、平等、友好、开放、有趣的互联网交流社区
+- [萌块](https://www.moeblock.com/) - 一个神秘的社区
 
 ### 技术社区
 
