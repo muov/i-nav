@@ -26,6 +26,7 @@
 - [茂茂物语](https://notes.fe-mm.com/) - 知识是进步的阶梯，争取每天都有知识点更新
 - [纸鹿摸鱼处](https://blog.zhilu.site/) - 分享技术与生活；折腾不止，摸鱼生活——摸门 🙏🏻
 - [THW's Blog](https://tianhw.top/) - 前途似海，来日方长
+- [夏夜流萤](https://blog.cuteleaf.cn/) - 飞萤之火自无梦的长夜亮起，绽放在终竟的明天
 
 ### 其它
 
@@ -45,4 +46,5 @@
 - [爱知趣](https://www.92zhiqu.com/) - 一家专注互联教育的公司，专注在线职业教学
 
 ## 文档资料
+
 - [Hello 算法](https://www.hello-algo.com/) - 动画图解、一键运行的数据结构与算法教程
