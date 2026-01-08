@@ -54,6 +54,9 @@
 - [Mac俱乐部](https://www.maclub.net/) - 专为苹果电脑与iPhone用户精心打造的软件下载与分享平台 ![Mac][Mac Icon]
 - [4分贝分享网](https://4fb.cn/) - 分享绿色软件，视频教程，源自灵魂的分享
 
+### Play Games
+- [PlayCover](https://github.com/PlayCover/PlayCover) - Mac上 原生运行 iOS 应用程序和游戏[《中文网》](https://www.playcover.com.cn/) ![Mac][Mac Icon]
+
 ## 设计资源
 
 ### 图源
