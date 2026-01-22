@@ -51,6 +51,7 @@
 
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - macOS 各类精选软件分类合集 ![Mac][Mac Icon]
 - [AppStorrent](https://appstorrent.ru/) - macOS 绿色游戏和应用 ![Mac][Mac Icon]
+- [MacKed](https://macked.app/) - 专注于 Mac 破解资源的分享和下载 ![Mac][Mac Icon]
 - [Mac俱乐部](https://www.maclub.net/) - 专为苹果电脑与iPhone用户精心打造的软件下载与分享平台 ![Mac][Mac Icon]
 - [4分贝分享网](https://4fb.cn/) - 分享绿色软件，视频教程，源自灵魂的分享
 
