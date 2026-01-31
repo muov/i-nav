@@ -14,15 +14,6 @@
 >
 > ![Mobile][Mobile Icon] - Mobile
 
-### 网络代理
-
-- [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - Android 通用代理工具链 ![Android][Android Icon]
-- [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - 提供量身定制的代理体验
-- [clash-party](https://github.com/mihomo-party-org/clash-party) - Mihomo GUI 代理客户端
-- [FlClash](https://github.com/chen08209/FlClash) - 基于 ClashMeta 的多平台代理客户端，简单易用
-- [v2rayN](https://github.com/2dust/v2rayN) - GUI客户端，支持 Xray 和 singbox 等
-- [Loon](https://loonapp.org/) - iOS 和 tvOS 平台上易用且强劲的网络工具
-
 ### 影视影音
 
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
